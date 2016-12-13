@@ -4,10 +4,6 @@ import android.graphics.Color;
 
 import java.util.Random;
 
-/**
- * Created by jacksonmeyer on 12/12/16.
- */
-
 public class ColorWheel {
     public String[] mColors = {
             "#39add1", // light blue

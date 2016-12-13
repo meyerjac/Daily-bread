@@ -2,10 +2,6 @@ package com.example.jacksonmeyer.dailybread;
 
 import java.util.Random;
 
-/**
- * Created by jacksonmeyer on 12/12/16.
- */
-
 public class QuoteBook {
         String[] mQuotes = {
                 "'The future belongs to those who believe in the beauty of their dreams' -anonymous",
